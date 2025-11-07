@@ -56,6 +56,4 @@ This is a template, so it's very easy to customize!
 
 ---
 
----
-
 *Made with ❤️ for all the birthday celebrations!*
