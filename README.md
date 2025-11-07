@@ -1,10 +1,8 @@
 # 🎂 Birthday Website Template
 
-A simple, fun, and interactive birthday greeting template built with HTML, CSS, and JavaScript. This project provides a modern, digital "birthday card" experience, complete with background music and a personalized pop-up letter.
+A simple, fun, and interactive birthday greeting template built with HTML, CSS, and JavaScript. This project provides a modern, digital "birthday card" experience, complete with background music and a personalized letter.
 
 ## 🚀 Live Demo
-
-**(Optional, but highly recommended!)**
 
 [**Click Here to See it Live!**](https://saransh971.github.io/birthday-template/)
 
