@@ -56,10 +56,6 @@ This is a template, so it's very easy to customize!
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE). Feel free to use it, share it, and customize it!
-
 ---
 
 *Made with ❤️ for all the birthday celebrations!*
